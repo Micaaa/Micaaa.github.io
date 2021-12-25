@@ -1,0 +1,28 @@
+- title: home
+  url: /
+  external: false
+
+- title: diary
+  url: /diary/
+  external: false
+
+- title: talks
+  url: /talks/
+  external: false
+
+- title: games
+  url: /games/
+  external: false # set true if you using external link, see below
+
+- title: archive
+  url: /archive/
+  external: false # set true if you using external link, see below
+
+- title: tags
+  url: /tags/
+  external: false # set true if you using external link, see below
+
+# Example:
+# - title: github
+#   url: https://github.com/piharpi/jekyll-klise
+#   external: true
