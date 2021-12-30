@@ -15,8 +15,8 @@ fields:
   name: categories
   label: categories
 pages:
-- _posts/2021/10.md
 - _posts/2021/2021-09-05-캐나다-유학-일기.md
 - _posts/2021/2021-09-12-2.md
 - _posts/2021/2021-09-19-점점-힘들어지는-학교생활.md
 - _posts/2021/2021-09-26-무르익어가는-캐나다의-가을.md
+- _posts/2021/2021-10-03-10.md
