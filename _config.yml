@@ -24,7 +24,7 @@ author:
 url: "https://micaaa.github.io/" #
 baseurl:
 permalink: /:title/
-google_analytics: "G-PB1GE8QGST" # leave it blank if not wish
+google_analytics: "UA-200673167-1" # leave it blank if not wish
 fb_appid:
 
 # Collection setting
