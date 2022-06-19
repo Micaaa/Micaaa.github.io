@@ -1,8 +1,7 @@
 ---
 title: "[Jason Mraz] I'm Yours"
 date: 2021-12-31 15:00:00 +0000
-tags:
-- 우쿨렐레
+tags: []
 categories: ukulele
 
 ---
