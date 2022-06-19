@@ -1,12 +1,11 @@
 ---
 title: "[Dua Lipa] We're Good"
-date: 2021-12-31 15:00:00 +0000
-tags:
-- 우쿨렐레
+date: 2021-12-31T15:00:00.000+00:00
+tags: []
 categories: ukulele
 
 ---
-    Intro: Am D
+Intro: Am D
      
     Verse 1:
     -nc-        Am
