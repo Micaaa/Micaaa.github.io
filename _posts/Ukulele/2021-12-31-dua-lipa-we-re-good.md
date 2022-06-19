@@ -1,6 +1,6 @@
 ---
 title: "[Dua Lipa] We're Good"
-date: 2021-12-31 15:00:00 +0000
+date: 2021-12-31 15:01:00 +0000
 tags:
 - 우쿨렐레
 categories: ukulele
