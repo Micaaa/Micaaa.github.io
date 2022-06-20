@@ -2,6 +2,8 @@
 title: celebrating my BD
 date: 2021-02-20 15:00:00 +0000
 tags:
+- 니르코브
+- 더로열푸드앤드링크
 - 이태원
 - 생일
 categories: diary
