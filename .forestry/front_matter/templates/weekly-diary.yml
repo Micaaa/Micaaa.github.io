@@ -15,9 +15,6 @@ fields:
   name: categories
   label: categories
 pages:
-- _posts/2021/...md
-- _posts/2021/1.md
-- _posts/2021/2.md
 - _posts/2021/2021-09-05-캐나다-유학-일기.md
 - _posts/2021/2021-09-12-2.md
 - _posts/2021/2021-09-19-점점-힘들어지는-학교생활.md
@@ -28,21 +25,6 @@ pages:
 - _posts/2021/2021-10-24-새벽같이-일어나서-새벽같이-자기.md
 - _posts/2021/2021-10-31-딱-절반-왔어요.md
 - _posts/2021/2021-11-07-비어퐁-앤-벌쓰데이.md
-- _posts/2021/celebrating-my-bd.md
-- _posts/2021/teamlab-life.md
-- _posts/2021/도우터-버드라운지.md
-- _posts/2021/밍수랑-샤로수길.md
-- _posts/2021/숩과-고양시-나들이.md
-- _posts/2021/오랜만에-주민-노가다.md
-- _posts/2021/전주-물빛정원.md
+- _posts/2021/미토피아-엔딩-본-기념-이모저모-사진-및-영상-정리.md
 - _posts/2022-02-20-예비-생일-맞이-잠실-나들이.md
 - _posts/2022/2022-05-26-양양-몇-년만에-가족여행.md
-- _posts/Ukulele/abba-dancing-queen.md
-- _posts/Ukulele/abba-honey-honey.md
-- _posts/Ukulele/abba-i-have-a-dream.md
-- _posts/Ukulele/abba-mamma-mia.md
-- _posts/Ukulele/abba-take-a-chance-on-me.md
-- _posts/Ukulele/jason-mraz-i-m-yours.md
-- _posts/Ukulele/queen-crazy-little-thing-called-love.md
-- _posts/Ukulele/queen-don-t-stop-me-now.md
-- _posts/Ukulele/queen-love-of-my-life.md
